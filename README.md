@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Kaio Lucas Ferreira Barbosa
 
-[![blog](link_do_seu_blog_aqui)](https://github.com/kaiolucas8741) <!-- Adicione o link do seu blog aqui -->
+[![blog](https://github.com/kaiolucas8741)](https://github.com/kaiolucas8741) 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiolucas8741&show_icons=true&theme=highcontrast)
 
 ## Tecnologias que eu utilizo
